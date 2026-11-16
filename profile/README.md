@@ -6,7 +6,6 @@ We build tools for authentication, verification, and secure data sharing.
 
 ## Explore
 - [Website](https://idsentric.com)
-- [Token repository](https://github.com/IDSentric/token)
 
 ## For developers
 Explore public repositories and documentation to learn about available implementations.
