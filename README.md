@@ -12,8 +12,7 @@ IDSentric develops identity and access control solutions that help organizations
 
 ## Products & Infrastructure
 
-- **Token** – Core identity token and access management component. Built for flexible integration and secure credential handling.
-  - Repository: [IDSentric/token](https://github.com/IDSentric/token)
+- Coming soon
 
 ## Developer Ecosystem
 
